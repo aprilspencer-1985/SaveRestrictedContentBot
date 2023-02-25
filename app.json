@@ -12,27 +12,27 @@
     "success_url": "https://t.me/DroneBots",
     "env": {
         "API_HASH": {
-            "description": "Your API HASH from my.telegram.org",
+            "description": "000d66c8f9c490c81dd64d7a48f55d1d",
             "value": ""
         },
         "API_ID": {
-            "description": "Your API ID from my.telegram.org",
+            "description": "16643256",
             "value": ""
         },
         "BOT_TOKEN": {
-            "description": "Bot token, get it from @BotFather.",
+            "description": "6225126602:AAE6MMuAYaF8q2lm-dtdogT4aOEnY8odNvc",
             "value": ""
         },
         "SESSION": {
-            "description": "Pyrogram string session.",
+            "description": "AgCGuVni3OXlhrFHNuCbJquqdpP0qqV205tmJRogUVcixoO8H3JlX8gG0IsRklmuZLKxdTjN3qlGH-nIvVCe5j6PRRoBTl38Y-rVNtp7FETL_awV-O2ZIKXInzGAJan4HLKvPetmk-RhMYnVYMSB0rNi7IS6aXQoM5IiMges3uS7NiA7Lc-jodhw2HvEXSqhBktceq04xkbeqAEhbYZC9w5zrAMMdMWyuSoLbsx3-_Uvavokw3BC-lspx5SWNkw9_bV9sXkFXYTL_OYguCRM86amxh0xy13zHFpPg6irn3NMsd2Gc4WMhPyYhw1I5WiQk_slSANt3AO2ZK69V9kNPGtgAAAAAToSMc4A",
             "value": ""
         },
         "AUTH": {
-            "description": "User ID of Bot owner.",
+            "description": "5269238222",
             "value": ""
         },
         "FORCESUB": {
-            "description": "Username name of public channel without using '@'.",
+            "description": "Mysave_00x_bot",
             "value": ""
         }
     },
